@@ -1,0 +1,7 @@
+I don't exactly why everything should be that way so don't hesitate to play with the values :
+- Don't set the start speed to zero otherwise it doesn't work anymore.
+- Play with the 3D start size to modify the thickness of the shafts.
+- The secret of all this is in the renderer section : Stretched Billboard and Pivot values modified, try to modify these to see what it does :)
+- The rest is standard particles stuff...
+
+Bye bye :D
